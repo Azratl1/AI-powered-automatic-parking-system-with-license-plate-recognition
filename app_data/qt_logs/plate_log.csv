@@ -1,0 +1,14 @@
+timestamp,image_path,plate,raw,detector_source,detector_score,ocr_confidence,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+2026-03-12 15:16:50,D:/DOC/Plate_recognizing-main/my_images/kppcar1.jpg,T417YP174,T417YP7774,yolo,0.826465,0.795841,251,352,305,371
+2026-03-12 15:17:49,D:/DOC/Plate_recognizing-main/my_images/kppcar1.jpg,T417YP174,T417YP7774,yolo,0.826465,0.795841,251,352,305,371
+2026-03-12 15:18:01,D:/DOC/Plate_recognizing-main/my_images/kppcar1.jpg,T417YP174,T417YP7774,yolo,0.826465,0.795841,251,352,305,371
+2026-03-12 15:18:06,D:/DOC/Plate_recognizing-main/my_images/kppcar1.jpg,T417YP174,T417YP7774,yolo,0.826465,0.795841,251,352,305,371
+2026-03-12 15:18:22,D:/DOC/Plate_recognizing-main/my_images/img.png,A652MP97,A652MP97,yolo,0.766897,0.879706,216,447,368,485
+2026-03-12 15:18:25,D:/DOC/Plate_recognizing-main/my_images/img.png,A652MP97,A652MP97,yolo,0.766897,0.879706,216,447,368,485
+2026-03-12 15:18:34,D:/DOC/Plate_recognizing-main/my_images/img_2.png,C100TO186,C100TO188,yolo,0.795197,0.979380,377,412,524,449
+2026-03-12 15:23:09,D:/DOC/Plate_recognizing-main/my_images/kppcar1.jpg,T477YP77,T477YP77,yolo,0.826465,0.957947,251,350,310,373
+2026-03-12 15:23:21,D:/DOC/Plate_recognizing-main/my_images/img_2.png,C100TO100,C100TO100,yolo,0.795197,0.999938,377,408,539,453
+2026-03-12 15:23:29,D:/DOC/Plate_recognizing-main/my_images/img.png,A652MP97,A652MP97,yolo,0.766897,0.991052,216,443,383,490
+2026-03-12 15:23:34,D:/DOC/Plate_recognizing-main/my_images/img_5.png,O404KO76,O404KO76,yolo,0.748291,0.997926,258,172,323,194
+2026-03-12 17:51:42,D:/DOC/Plate_recognizing-main/my_images/kppcar1.jpg,T477YP77,T477YP77,yolo,0.826465,0.957947,251,350,310,373
+2026-03-18 21:44:04,D:/DOC/OCR_Russian_plates_detection-recognizing-main/my_images/kppcar1.jpg,T477YP77,T477YP77,yolo,0.826465,0.957947,251,350,310,373
