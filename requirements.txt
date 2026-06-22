@@ -1,0 +1,6 @@
+numpy>=1.26,<3
+opencv-python>=4.10,<5
+psycopg[binary]>=3.2,<4
+torch>=2.5,<3
+torchvision>=0.20,<1
+ultralytics>=8.3,<9
